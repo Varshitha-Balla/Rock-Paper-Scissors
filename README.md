@@ -1,4 +1,4 @@
-# **Rock Paper Scissors Game 🪨📄✂️**  
+# **Rock Paper Scissors Game 👊🤚✌️**  
 
 ## **🎮 About the Project**  
 This is a **fun and interactive Rock Paper Scissors game** built using **HTML, CSS, and JavaScript**. It allows players to compete against the computer in the classic hand game. With smooth animations, stylish UI, and responsive design, this project provides an engaging experience for users of all ages!  
