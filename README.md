@@ -17,16 +17,16 @@ This is a **fun and interactive Rock Paper Scissors game** built using **HTML, C
 
 ## **📸 Screenshots**  
 ### Game Interface:
-![Game UI](RP2.png)
+![Game UI](RP5.png)
 
 ### Winning Screen:
-![Winning Screen](RP3.png)
+![Winning Screen](RP2.png)
 
 ### Losing Screen:
-![Losing Screen](RP4.png)
+![Losing Screen](RP3.png)
 
 ### If It's a tie Screen:
-![Losing Screen](RP5.png)
+![Losing Screen](RP4.png)
   
 
 ## **💡 How to Play?**  
